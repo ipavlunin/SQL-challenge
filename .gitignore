@@ -77,7 +77,7 @@ target/
 
 # Jupyter Notebook
 config.py
-pass.py
+pswrd.py
 __pycache__
 .ipynb_checkpoints
 
